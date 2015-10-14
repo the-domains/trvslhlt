@@ -1,6 +1,7 @@
 name: trvslhlt
 favicon: null
-layout_spectrum: 0.52413
+layout_spectrum: 0.75516
+typography_spectrum: 0.83104
 title: trvslhlt
 cta:
   domain: null
@@ -22,9 +23,9 @@ color:
     - '#4c3348'
     - '#849583'
   brandStrength: 1
-  lightness: 0.5
+  lightness: 0.8125
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose:
   - name: follow
     item: 'null'
