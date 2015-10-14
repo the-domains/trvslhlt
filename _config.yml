@@ -1,6 +1,7 @@
 name: trvslhlt
 favicon: null
 layout_spectrum: 0.8
+title: trvslhlt
 cta:
   domain: null
   bucket: null
@@ -21,5 +22,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: null
+    item: 'null'
     url: null
